@@ -35,4 +35,5 @@ public class BelahKetupat {
         System.out.println();
     }// end loop
     }
+    asdqwe22 islaaaAAA
 }
